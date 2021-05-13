@@ -1,0 +1,50 @@
+1620895681820	geckodriver	INFO	Listening on 127.0.0.1:58217
+1620895682760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile01IrIW"
+1620895684522	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not compatible with application version.
+1620895684524	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not compatible with application version.
+1620895684524	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not compatible with application version.
+1620895684548	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1620895684550	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1620895684550	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1620895684572	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1620895684574	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1620895684574	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1620895684596	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not compatible with application version.
+1620895684598	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not compatible with application version.
+1620895684598	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not compatible with application version.
+1620895684614	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not compatible with application version.
+1620895684614	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not compatible with application version.
+1620895684616	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not compatible with application version.
+1620895684634	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not compatible with application version.
+1620895684636	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not compatible with application version.
+1620895684636	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not compatible with application version.
+1620895684912	Marionette	INFO	Enabled via --marionette
+1620895685066	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not compatible with application version.
+1620895685068	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1620895685072	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1620895685074	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not compatible with application version.
+1620895685074	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not compatible with application version.
+1620895685074	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not compatible with application version.
+1620895685074	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not compatible with application version.
+1620895685074	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1620895685074	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1620895685076	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not compatible with application version.
+1620895685076	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not compatible with application version.
+1620895685076	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not compatible with application version.
+1620895685082	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not compatible with application version.
+1620895685084	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1620895685084	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1620895685084	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not compatible with application version.
+1620895685086	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not compatible with application version.
+1620895685086	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not compatible with application version.
+1620895685236	addons.xpi	WARN	Add-on langpack-es-MX@firefox.mozilla.org is not compatible with application version.
+1620895685238	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1620895685238	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1620895685238	addons.xpi	WARN	Add-on langpack-es-CL@firefox.mozilla.org is not compatible with application version.
+1620895685240	addons.xpi	WARN	Add-on langpack-es-AR@firefox.mozilla.org is not compatible with application version.
+1620895685240	addons.xpi	WARN	Add-on langpack-es-ES@firefox.mozilla.org is not compatible with application version.
+1620895687188	Marionette	INFO	Listening on port 40459
+1620895687354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e00-expansion.uecdn.es/assets/v1/js/desktop.min.js, line 3: TypeError: document.body is null
+JavaScript error: https://e00-expansion.uecdn.es/assets/v1/js/jquery.2.2.1.js line 1 > eval, line 1: ReferenceError: bsn is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

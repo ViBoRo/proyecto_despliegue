@@ -1,3 +1,12 @@
 para que funcione geckodriver hay que añadirlo al PATH
 
 export PATH=$PATH:/home/alumno/proyecto_despliegue
+
+para llamar al fichero recoger_datos.sh de forma periodica se usa cron
+
+para que se ejecute de 9:30 a 18:30
+
+crontab -e 
+
+añadir: 
+30 9-18 * * * /home/alumno/proyecto_despliegue/recoger_datos.sh

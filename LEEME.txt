@@ -1,0 +1,1 @@
+para que funcione geckodriver hay que añadirlo al PATH

@@ -1,1 +1,3 @@
 para que funcione geckodriver hay que añadirlo al PATH
+
+export PATH=$PATH:/home/alumno/proyecto_despliegue

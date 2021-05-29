@@ -10,3 +10,13 @@ crontab -e
 
 añadir: 
 30 9-18 * * * /home/alumno/proyecto_despliegue/recoger_datos.sh
+
+
+
+
+sacar todos los datos de un mes, argumento mes
+cat ibex/2021/arg/*/*/*
+
+sacar todos los datos de una semana, argumentos /mes/numerosemana
+cat ibex/2021/arg/arg/*/*
+
